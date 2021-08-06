@@ -7,7 +7,7 @@
 # Matheus Medeiros
 <sub>*Data Scientist*</sub>
 
-Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Tenho experiência internacional nos Estados Unidos em intercâmbio cultural de formação em liderança a trabalho como monitor de acampamento de verão. No Brasil, trabalhei como professor de inglês pela empresa Uptime Comunicação em Inglês por um período de 2 anos. Atualmente invisto meu tempo e dedicação aos estudos e desenvolvimento de projetos de Data Science, visando iniciar uma longa e proveitosa carreira na área.
+Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Tenho experiência internacional nos Estados Unidos em intercâmbio cultural de formação em liderança a trabalho como monitor de acampamento de verão. No Brasil, trabalhei como professor de inglês pela empresa Uptime Comunicação em Inglês por um período de 2 anos. Atualmente invisto meu tempo e dedicação aos estudos e desenvolvimento de projetos de Data Science.
 
 **Background in:** Python, R, Machine Learning, Data Strutures, SQL.
 
