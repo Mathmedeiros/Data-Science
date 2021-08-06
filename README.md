@@ -12,7 +12,6 @@ Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Univers
 **Background in:** Python, R, Machine Learning, Data Strutures, SQL.
 
 **Links:**
-* [Blog](nenhum ainda)
 * [LinkedIn](https://www.linkedin.com/in/matheushomedeiros/)
 * [Medium](https://medium.com/@matheushom)
 
