@@ -13,7 +13,7 @@ Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Univers
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheushomedeiros/)
-* [Medium](https://medium.com/@matheushom)
+* [Medium](https://medium.com/something-about-data)
 
 
 ## Projetos:
