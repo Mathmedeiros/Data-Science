@@ -19,6 +19,6 @@ Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Univers
 ## Projetos:
 Veja abaixo os projetos já desenvolvidos:
 
-* **Análise dos Dados do Airbnb - New York City** https://colab.research.google.com/github/Mathmedeiros/Data-Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb
+* **Análise dos Dados do Airbnb - New York City** https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC
 
 ---
