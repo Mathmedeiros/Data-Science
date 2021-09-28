@@ -21,5 +21,6 @@
 Veja abaixo os projetos já desenvolvidos:
 
 * **Análise dos Dados do Airbnb - New York City** https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC
+* **Análise do Panorama mundial da COVID-19** https://github.com/Mathmedeiros/Projeto-Analise-de-dados-COVID-19
 
 ---
