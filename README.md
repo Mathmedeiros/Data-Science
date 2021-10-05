@@ -22,5 +22,6 @@ Veja abaixo os projetos já desenvolvidos:
 
 * [**Análise dos Dados do Airbnb - New York City**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC)
 * [**Análise do Panorama mundial da COVID-19**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-COVID-19)
+* [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/Mathmedeiros/PROJETO---Deteccao-de-Fraude-em-Cartoes-de-Credito)
 
 ---
