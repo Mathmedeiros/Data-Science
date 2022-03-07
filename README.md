@@ -7,9 +7,9 @@
 # Matheus Medeiros
 <sub>*Data Scientist*</sub>
 
-<div style="text-align: justify">Graduado em Engenharia Mecânica (ênfase Mecatrônica) pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Tenho experiência internacional nos Estados Unidos em intercâmbio cultural de formação em liderança a trabalho como monitor de acampamento de verão. No Brasil, trabalhei como professor de inglês pela empresa Uptime Comunicação em Inglês por um período de 2 anos. Atualmente invisto meu tempo e dedicação aos estudos e desenvolvimento de projetos de Data Science.</div>
+<div style="text-align: justify">Originally graduated in Mechatronics Engineering at PUC-Minas in Brazil, currently facing challenges as a Data Scientist. During college, from the beginning I developed skills in software development, logical reasoning and analytical skills. I had years of experience as an English language teacher and have participated in numerous leadership projects and practical activities that have developed my communication skills. Such skills are extremely important to my routine as a data scientist, as I'm able to perform tasks that most technology professionals have difficulties, exposing ideas and results in a clear and didactic way.</div>
 
-**Background in:** Python, R, Machine Learning, Data Strutures, SQL.
+**Background in:** Python, Machine Learning, Analytics, Data Strutures, Big Data, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheushomedeiros/)
@@ -18,10 +18,10 @@
 
 
 ## Projetos:
-Veja abaixo os projetos já desenvolvidos:
+See below the personal projects I have developed:
 
-* [**Análise dos Dados do Airbnb - New York City**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC)
-* [**Análise do Panorama mundial da COVID-19**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-COVID-19)
-* [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/Mathmedeiros/PROJETO---Deteccao-de-Fraude-em-Cartoes-de-Credito)
+* [**Airbnb Data Analysis - New York City**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC)
+* [**COVID-19 Data Analysis**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-COVID-19)
+* [**Credit Card Fraud Detection**](https://github.com/Mathmedeiros/PROJETO---Deteccao-de-Fraude-em-Cartoes-de-Credito)
 
 ---
