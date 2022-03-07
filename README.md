@@ -18,7 +18,7 @@
 * [Professional CV (English)](https://drive.google.com/file/d/1F0TRDcCXYJsnYImpze2pZHm6e4stKmWC/view?usp=sharing)
 
 
-## Projetos:
+## Projects:
 See below the personal projects I have developed:
 
 * [**Airbnb Data Analysis - New York City**](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC)
