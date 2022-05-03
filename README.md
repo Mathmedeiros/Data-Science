@@ -14,8 +14,8 @@
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheushomedeiros/)
 * [Medium](https://medium.com/something-about-data)
-* [Professional CV (Portuguese)](https://drive.google.com/file/d/1tppCDH0Ai4yZZz7Q4TTJTKt69Qvmnvux/view?usp=sharing)
-* [Professional CV (English)](https://drive.google.com/file/d/1F0TRDcCXYJsnYImpze2pZHm6e4stKmWC/view?usp=sharing)
+* [Professional CV (Portuguese)](https://drive.google.com/file/d/1JBedAPL5tR2ftapaCpmV9jqaNuRsK5Hi/view?usp=sharing)
+* [Professional CV (English)](https://drive.google.com/file/d/1X4EJoemwr3Izz24EjllnG3AoaUiVdg8Y/view?usp=sharing)
 
 
 ## Projects:
